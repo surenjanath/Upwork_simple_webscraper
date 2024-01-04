@@ -1,0 +1,309 @@
+state,Region
+AL,Alabama
+AL02,Alabama - Birmingham
+AL05,Alabama - Gunthersville/Boaz/Arab
+AL01,Alabama - Huntsville
+AL04,Alabama - Mobile
+AL03,Alabama - Montgomery
+AK,Alaska
+AK01,Alaska - Anchorage
+AB,Alberta
+AZ,Arizona
+AZ01,Arizona - Flagstaff
+AZ03,Arizona - Phoenix
+AZ04,Arizona - Scottsdale
+AZ02,Arizona - Tuscon
+AR,Arkansas
+AR04,Arkansas - El Dorado
+AR02,Arkansas - Fayetteville
+AR03,Arkansas - Jonesboro
+AR01,Arkansas - Little Rock
+BC,British Columbia
+CA,California
+CA06,California - Bakersfield
+CA20,California - Bay Area
+CA15,California - Central Coast
+CA16,California - Chico
+CA12,California - East Bay
+CA10,California - Fresno
+CA08,California - Inland Empire
+CA01,California - Los Angeles
+CA09,California - Monterey Bay
+CA03,California - Orange County
+CA19,California - Redding
+CA02,California - Sacramento
+CA17,California - San Diego
+CA13,California - San Francisco
+CA05,California - Santa Barbara
+CA07,California - Santa Cruz
+CA04,California - Silicon Valley
+CA18,California - Sonoma / Napa
+CA14,California - Stockton / Modesto
+CA11,California - Ventura County
+CAN,Canada
+CO,Colorado
+CO02,Colorado - Boulder
+CO04,Colorado - Colorado Springs
+CO01,Colorado - Denver
+CO03,Colorado - Northern Colorado
+CO05,Colorado - Western Colorado
+CT,Connecticut
+CT01,Connecticut - Hartford
+CT03,Connecticut - New Haven
+CT04,Connecticut - Putnam
+CT02,Connecticut - Waterbury
+DE,Delaware
+DE02,Delaware - Dover
+DE01,Delaware - Wilmington
+DC,District of Columbia
+FL,Florida
+FL13,Florida - Cape Coral / Fort Myers
+FL07,Florida - Daytona Beach
+FL09,Florida - Fort Lauderdale
+FL17,Florida - Ft. Walton/Destin
+FL01,Florida - Gainesville
+FL05,Florida - Jacksonville
+FL20,Florida - Jupiter
+FL12,Florida - Miami
+FL10,Florida - Naples
+FL03,Florida - Ocala
+FL04,Florida - Orlando
+FL15,Florida - Panama City
+FL16,Florida - Pensacola
+FL18,Florida - Port St. Lucie
+FL06,Florida - Sarasota
+FL19,Florida - Stuart
+FL08,Florida - Tallahassee
+FL14,Florida - Tampa Bay
+FL02,Florida - West Palm Beach
+GA,Georgia
+GA6,Georgia - Adel
+GA1,Georgia - Atlanta
+GA2,Georgia - Augusta
+GA7,Georgia - Columbus
+GA3,Georgia - Macon
+GA8,Georgia - North Georgia
+GA4,Georgia - Savannah
+GA5,Georgia - Valdosta
+HI,Hawaii
+HI03,Hawaii - Hilo
+HI01,Hawaii - Honolulu
+HI02,Hawaii - Kahului
+ID,Idaho
+ID01,Idaho - Boise
+ID02,Idaho - Idaho Falls
+IL,Illinois
+IL02,Illinois - Chicago
+IL03,Illinois - Peoria
+IL01,Illinois - Rockford
+IL05,Illinois - Springfield
+IL06,Illinois - St. Louis
+IL04,Illinois - Urbana / Champaign
+IN,Indiana
+IN04,Indiana - Bloomington
+IN06,Indiana - Elkhart
+IN05,Indiana - Evansville
+IN03,Indiana - Ft. Wayne
+IN01,Indiana - Indianapolis
+IN07,Indiana - LaPorte
+IN08,Indiana - Merrillville
+IN02,Indiana - South Bend
+IA,Iowa
+KS,Kansas
+KS03,Kansas - Kansas City
+KS02,Kansas - Topeka
+KS01,Kansas - Wichita
+KY,Kentucky
+KY03,Kentucky - Bowling Green
+KY04,Kentucky - Frankfort
+KY05,Kentucky - Georgetown
+KY02,Kentucky - Lexington
+KY01,Kentucky - Louisville
+KY06,Kentucky - Richmond
+KY07,Kentucky - Winchester
+LA,Louisiana
+LA02,Louisiana - Alexandria
+LA03,Louisiana - Baton Rouge
+LA05,Louisiana - Mandeville
+LA04,Louisiana - New Orleans
+LA01,Louisiana - Shreveport
+ME,Maine
+ME02,Maine - Bangor
+ME01,Maine - Portland
+MB,Manitoba
+MD,Maryland
+MD01,Maryland - Baltimore
+MD02,Maryland - Hagerstown
+MA,Massachusetts
+MA03,Massachusetts - Boston
+MA01,Massachusetts - Cape Cod
+MA04,Massachusetts - Lowell
+MA06,Massachusetts - South Shore
+MA05,Massachusetts - Springfield
+MA02,Massachusetts - Worcester
+MI,Michigan
+MI03,Michigan - Ann Arbor
+MI13,Michigan - Benton Harbor
+MI17,Michigan - Big Rapids
+MI15,Michigan - Central
+MI02,Michigan - Detroit
+MI04,Michigan - Flint
+MI05,Michigan - Grand Rapids
+MI11,Michigan - Greenville
+MI10,Michigan - Holland
+MI12,Michigan - Ionia
+MI01,Michigan - Kalamazoo / Battle Creek
+MI07,Michigan - Lansing / East Lansing
+MI16,Michigan - Mt. Pleasant
+MI09,Michigan - Muskegon
+MI14,Michigan - Niles
+MI06,Michigan - Saginaw / Bay City
+MI08,Michigan - Traverse City
+MI18,Michigan - Ypsilanti
+MN,Minnesota
+MN01,Minnesota - Minneapolis
+MS,Mississippi
+MS02,Mississippi - Gulfport
+MS01,Mississippi - Jackson
+MS04,Mississippi - Southaven
+MS03,Mississippi - Tupelo
+MO,Missouri
+MO01,Missouri - Kansas City
+MO02,Missouri - Springfield
+MO03,Missouri - St. Louis
+MT,Montana
+MT04,Montana - Billings
+MT01,Montana - Bozeman
+MT02,Montana - Great Falls
+MT03,Montana - Helena
+MT05,Montana - Kalispell
+NE,Nebraska
+NE03,Nebraska - Grand Island
+NE02,Nebraska - Lincoln
+NE04,Nebraska - North Platt
+NE01,Nebraska - Omaha
+NV,Nevada
+NV02,Nevada - Las Vegas
+NV01,Nevada - Reno
+NB,New Brunswick
+NH,New Hampshire
+NJ,New Jersey
+NJ06,New Jersey - Central Jersey
+NJ07,New Jersey - Hoboken / Jersey City
+NJ05,New Jersey - Jersey Shore
+NJ03,New Jersey - Newark
+NJ04,New Jersey - North Jersey
+NJ02,New Jersey - South Jersey
+NJ01,New Jersey - Trenton / Princeton
+NM,New Mexico
+NM01,New Mexico - Albuquerque
+NY,New York
+NY04,New York - Albany
+NY12,New York - Binghamton
+NY03,New York - Buffalo
+NY13,New York - Central State
+NY08,New York - Ithaca
+NY07,New York - Nassau County
+NY09,New York - New York NY
+NY02,New York - Poughkeepsie
+NY01,New York - Rochester
+NY05,New York - Suffolk County
+NY10,New York - Syracuse
+NY-U,New York - Upstate
+NY11,New York - Utica
+NY06,New York - Westchester
+NYC,New York City
+NF,Newfoundland
+NC,North Carolina
+NC08,North Carolina - Asheville
+NC01,North Carolina - Charlotte
+NC05,North Carolina - Fayetteville
+NC06,North Carolina - Greensboro
+NC03,North Carolina - Greenville
+NC02,North Carolina - Raleigh / Durham
+NC07,North Carolina - Wilmington
+NC04,North Carolina - Winston-Salem
+ND,North Dakota
+ND01,North Dakota - Bismark
+ND02,North Dakota - Minot
+ND03,North Dakota - Williston
+OH,Ohio
+OH03,Ohio - Akron
+OH07,Ohio - Cincinnati
+OH05,Ohio - Cleveland
+OH08,Ohio - Columbus
+OH09,Ohio - Dayton
+OH01,Ohio - Lima
+OH06,Ohio - Mansfield
+OH10,Ohio - Northwest
+OH04,Ohio - Toledo
+OH02,Ohio - Youngstown
+OK,Oklahoma
+ON,Ontario
+OR,Oregon
+OR05,Oregon - Coos Bay
+OR01,Oregon - Eugene
+OR06,Oregon - Florence
+OR03,Oregon - Medford
+OR04,Oregon - North Bend
+OR02,Oregon - Portland
+PA,Pennsylvania
+PA09,Pennsylvania - Allentown
+PA05,Pennsylvania - Erie
+PA01,Pennsylvania - Harrisburg
+PA02,Pennsylvania - Lancaster
+PA10,Pennsylvania - Philadelphia
+PA03,Pennsylvania - Pittsburgh
+PA08,Pennsylvania - Reading
+PA07,Pennsylvania - Scranton
+PA04,Pennsylvania - State College
+PA11,Pennsylvania - Williamsport
+PA06,Pennsylvania - York
+RI,Rhode Island
+SC,South Carolina
+SC02,South Carolina - Charleston
+SC04,South Carolina - Columbia
+SC05,South Carolina - Florence
+SC01,South Carolina - Greenville
+SC06,South Carolina - Hilton Head
+SC03,South Carolina - Myrtle Beach
+SD,South Dakota
+TN,Tennessee
+TN05,Tennessee - Chattanooga
+TN06,Tennessee - Jackson
+TN02,Tennessee - Kingsport
+TN04,Tennessee - Knoxville
+TN01,Tennessee - Memphis
+TN07,Tennessee - Murfreesboro
+TN03,Tennessee - Nashville
+TX,Texas
+TX07,Texas - Abilene
+TX02,Texas - Amarillo
+TX03,Texas - Austin
+TX06,Texas - Corpus Christi
+TX01,Texas - Dallas
+TX05,Texas - Houston
+TX10,Texas - Longview
+TX09,Texas - Lubbock
+TX11,Texas - Northeast Texas
+TX04,Texas - San Antonio
+TX08,Texas - Waco
+UT,Utah
+UT01,Utah - Salt Lake City
+VC,Vancouver
+VT,Vermont
+VA,Virginia
+VA07,Virginia - Alexandria
+VA08,Virginia - Arlington
+VA05,Virginia - Charlottesville
+VA06,Virginia - Fairfax
+VA02,Virginia - Lynchburg
+VA04,Virginia - Richmond
+VA01,Virginia - Roanoke
+VA03,Virginia - Virginia Beach / Norfolk
+WA,Washington
+WA01,Washington - Seattle
+WV,West Virginia
+WI,Wisconsin
+WI01,Wisconsin - Milwaukee
+WY,Wyoming
